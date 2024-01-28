@@ -151,7 +151,7 @@ body{
     /*    min-height: 100vh; */
     min-height: 50vh;
     width: 100vw;
-    background-image: url(../images/retrAIn_logo.jpeg);
+    background-image: url(../images/retrAIn_logo_banner.jpeg);
     background-size: cover;
     display: flex;
     align-items: center;
