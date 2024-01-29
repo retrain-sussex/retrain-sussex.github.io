@@ -148,11 +148,11 @@ body{
 }
 
 .home{
-    /*    min-height: 100vh; */
+    /*    min-height: 100vh;*/
     min-height: 50vh;
     width: 100vw;
     background-image: url(../images/retrAIn_logo_banner.jpeg);
-    /*    background-size: cover; */
+    /*    background-size: cover;*/
     background-size: contain;
     display: flex;
     align-items: center;
@@ -160,7 +160,7 @@ body{
     flex-flow: column;
     text-align: center;
     padding: 0 1rem;
-    position: relative;
+    /*    position: relative;*/
     overflow: hidden !important;
 }
 
