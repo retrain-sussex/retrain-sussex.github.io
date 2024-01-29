@@ -154,6 +154,7 @@ body{
     width: 100vw;
     background-image: url(../images/retrAIn_logo_banner.jpeg);
     /*    background-size: cover;*/
+    background-repeat: no-repeat;
     background-size: contain;
     display: flex;
     align-items: center;
