@@ -149,7 +149,7 @@ body{
 
 .home{
     /*    min-height: 100vh;*/
-    min-height: 20vh;
+    min-height: 70vh;
     width: 100vw;
     background-image: url(../images/retrAIn_logo_banner.jpeg);
     /*    background-size: cover;*/
