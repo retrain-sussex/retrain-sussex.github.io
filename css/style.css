@@ -213,6 +213,7 @@ body{
 	    text-align: center;
 	    position: relative;
 	    overflow: hidden;
+	    line-height: 10rem;
 }
 
 .center-fit {
@@ -222,6 +223,7 @@ body{
 	    text-align: center;
 	    position: relative;
 	    overflow: hidden;
+	    line-height: 10rem;
 }
 
 .about{
