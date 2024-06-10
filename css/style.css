@@ -211,6 +211,8 @@ body{
             display: grid;
             height: 100%;
 	    text-align: center;
+	    position: relative;
+	    overflow: hidden;
 }
 
 .center-fit {
@@ -218,6 +220,8 @@ body{
             max-height: 100vh;
             margin: auto;
 	    text-align: center;
+	    position: relative;
+	    overflow: hidden;
 }
 
 .about{
