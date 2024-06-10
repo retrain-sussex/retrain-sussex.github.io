@@ -216,6 +216,14 @@ body{
     line-height: 10rem;
 }
 
+.imgbox .row{
+    line-height: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 4rem;
+}
+
 .center-fit {
     max-width: 100%;
     max-height: 100vh;
