@@ -208,22 +208,22 @@ body{
 }
 
 .imgbox {
-            display: grid;
-            height: 100%;
-	    text-align: center;
-	    position: relative;
-	    overflow: hidden;
-	    line-height: 10rem;
+    display: grid;
+    height: 100%;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    line-height: 10rem;
 }
 
 .center-fit {
-            max-width: 100%;
-            max-height: 100vh;
-            margin: auto;
-	    text-align: center;
-	    position: relative;
-	    overflow: hidden;
-	    line-height: 10rem;
+    max-width: 100%;
+    max-height: 100vh;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    line-height: 10rem;
 }
 
 .about{
